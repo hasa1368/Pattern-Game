@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <RCC>
     <qresource prefix="/">
         <file>qml/Car.qml</file>
@@ -13,3 +14,20 @@
         <file>particleresources/star.png</file>
     </qresource>
 </RCC>
+=======
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Car.qml</file>
+        <file>qml/Game.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/Obstacle.qml</file>
+        <file>icons/car.png</file>
+        <file>icons/obstacle.png</file>
+        <file>qml/Shape.qml</file>
+        <file>qml/Cursor.qml</file>
+        <file>qml/Player.qml</file>
+        <file>particleresources/glowdot.png</file>
+        <file>particleresources/star.png</file>
+    </qresource>
+</RCC>
+>>>>>>> 8af55d0ad8c1ee10a20a4de146cfee45cb00d582
