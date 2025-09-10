@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "org.qtproject.example.ObstacleCar-merged_res-11:/xml_qtprovider_paths.xml.flat",
+        "source": "org.qtproject.example.ObstacleCar-android-build-12:/xml/qtprovider_paths.xml"
+    }
+]
