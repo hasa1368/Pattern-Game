@@ -5,7 +5,7 @@ ApplicationWindow {
     visible: true
     width: 600
     height: 800
-    title: qsTr("Obstacle Car Game AI")
+    title: qsTr("Pattern Game")
 
     Game {
         anchors.fill: parent

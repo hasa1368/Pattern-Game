@@ -1,6 +1,18 @@
 [
     {
-        "merged": "org.qtproject.example-merged_res-11:/xml_qtprovider_paths.xml.flat",
-        "source": "org.qtproject.example-android-build-12:/xml/qtprovider_paths.xml"
+        "merged": "org.qtproject.example-merged_res-11:/drawable-xxhdpi_icon.png.flat",
+        "source": "org.qtproject.example-android-build-12:/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.3\\org.qtproject.example-merged_res-11:\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.3\\org.qtproject.example-android-build-12:\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.3\\org.qtproject.example-merged_res-11:\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.3\\org.qtproject.example-android-build-12:\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.3\\org.qtproject.example-merged_res-11:\\xml_qtprovider_paths.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.3\\org.qtproject.example-android-build-12:\\xml\\qtprovider_paths.xml"
     }
 ]

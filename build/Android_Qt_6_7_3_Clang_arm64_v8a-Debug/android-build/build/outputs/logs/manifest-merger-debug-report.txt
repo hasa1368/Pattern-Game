@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:43:9-51:20
+INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:18:9-20:20
 	android:grantUriPermissions
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:47:13-47
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:18:144-178
 	android:authorities
 		INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:45:13-62
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:18:69-118
 	android:exported
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:46:13-37
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:18:119-143
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:44:13-62
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:18:19-68
 manifest
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-53:12
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\transforms-3\1889803c1caf7a44934ab227839ed332\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-3\c8b1f3dbc77e31c6f528112c817c5422\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\transforms-3\261a24e07aa00d63b69650b05ccce1d1\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -24,49 +24,49 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\.gr
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\df356c7a39e7ed5dfb4999ea8f66705f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\.gradle\caches\transforms-3\2c6bbeb545c8c44745f8a7aec5ee109c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\User\.gradle\caches\transforms-3\73976669f2bc37dc7a9154a5a6579b1d\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:3:5-36
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:70-101
 		INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
 		INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:6:5-30
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:157-182
 		INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
 		INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:5:5-28
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:133-156
 		INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
 		INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
 	android:installLocation
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:4:5-35
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:2:102-132
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:7:5-67
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:3:5-67
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:3:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:5-81
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:4:5-81
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:4:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:5:22-76
 supports-screens
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:11:5-15:39
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:7:5-135
 	android:largeScreens
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:13:9-36
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:7:49-76
 	android:smallScreens
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:15:9-36
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:7:106-133
 	android:normalScreens
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:9-37
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:7:77-105
 	android:anyDensity
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:12:9-34
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:7:23-48
 application
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:16:5-52:19
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:5-21:19
 MERGED from [androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\transforms-3\1889803c1caf7a44934ab227839ed332\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\transforms-3\1889803c1caf7a44934ab227839ed332\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-3\c8b1f3dbc77e31c6f528112c817c5422\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
@@ -76,53 +76,57 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\.gr
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\df356c7a39e7ed5dfb4999ea8f66705f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\df356c7a39e7ed5dfb4999ea8f66705f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:requestLegacyExternalStorage
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:20:9-52
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:144-187
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\transforms-3\1889803c1caf7a44934ab227839ed332\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:19:9-36
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:116-143
 	android:hardwareAccelerated
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:18:9-43
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:81-115
+	android:icon
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:246-275
 	android:allowBackup
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:188-214
 	android:fullBackupOnly
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:22:9-39
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:215-245
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:17:9-71
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:8:18-80
 activity#org.qtproject.qt.android.bindings.QtActivity
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:23:9-41:20
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:9-16:20
 	android:screenOrientation
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:27:13-52
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:280-319
+	android:label
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:344-360
 	android:launchMode
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:26:13-43
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:249-279
 	android:exported
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:28:13-36
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:320-343
 	android:configChanges
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:25:13-182
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:79-248
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:24:13-72
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:9:19-78
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:29:13-32:29
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:10:13-13:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:30:17-69
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:11:17-68
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:30:25-66
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:11:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:31:17-77
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:12:17-76
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:31:27-74
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:12:27-74
 meta-data#android.app.lib_name
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:34:11-36:47
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:13-89
 	android:value
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:36:17-44
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:60-87
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:35:17-52
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:24-59
 meta-data#android.app.arguments
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:38:11-40:36
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:15:13-79
 	android:value
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:40:17-33
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:15:61-77
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:39:17-53
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:15:24-60
 uses-sdk
 INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
@@ -156,11 +160,11 @@ INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_
 		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
 		INJECTED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:48:13-50:59
+ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:19:13-117
 	android:resource
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:50:17-57
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:19:75-115
 	android:name
-		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:49:17-67
+		ADDED from C:\Users\User\Documents\Pattern-Game\build\Android_Qt_6_7_3_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:19:24-74
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] C:\Users\User\.gradle\caches\transforms-3\1889803c1caf7a44934ab227839ed332\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel

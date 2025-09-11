@@ -542,17 +542,11 @@ compiler_rcc_clean:
 	-$(DEL_FILE) qrc_qml.cpp
 qrc_qml.cpp: ..\..\qml.qrc \
 		E:\Qt\6.7.3\mingw_64\bin\rcc.exe \
-		..\..\qml\Obstacle.qml \
 		..\..\qml\Main.qml \
 		..\..\qml\Game.qml \
-		..\..\qml\Shape.qml \
-		..\..\qml\Car.qml \
-		..\..\qml\Cursor.qml \
 		..\..\qml\Player.qml \
 		..\..\particleresources\glowdot.png \
-		..\..\particleresources\star.png \
-		..\..\icons\obstacle.png \
-		..\..\icons\car.png
+		..\..\particleresources\star.png
 	E:\Qt\6.7.3\mingw_64\bin\rcc.exe -name qml --no-zstd ..\..\qml.qrc -o qrc_qml.cpp
 
 compiler_moc_predefs_make_all: moc_predefs.h
@@ -1024,7 +1018,8 @@ AIController.obj: ..\..\AIController.cpp ..\..\AIController.h \
 		E:\Qt\6.7.3\android_arm64_v8a\include\QtCore\QVariantMap \
 		E:\Qt\6.7.3\android_arm64_v8a\include\QtCore\qvariantmap.h \
 		E:\Qt\6.7.3\android_arm64_v8a\include\QtCore\QMap \
-		E:\Qt\6.7.3\android_arm64_v8a\include\QtCore\QString
+		E:\Qt\6.7.3\android_arm64_v8a\include\QtCore\QString \
+		E:\Qt\6.7.3\android_arm64_v8a\include\QtCore\QDebug
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o AIController.obj ..\..\AIController.cpp
 
 qrc_qml.obj: qrc_qml.cpp 
