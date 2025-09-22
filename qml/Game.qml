@@ -316,8 +316,8 @@ Item {
             font.pixelSize: 28
             font.bold: true
             color: "white"
-            style: Text.Outline
-            styleColor: "#000000"
+            //style: Text.Outline
+            //styleColor: "#000000"
             horizontalAlignment: Text.AlignHCenter
             verticalAlignment: Text.AlignVCenter
         }
