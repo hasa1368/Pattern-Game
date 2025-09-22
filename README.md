@@ -21,6 +21,7 @@ Designed **only for Android** using **Clang**, this game challenges players to r
 - Screenshots: `screenshots/`  
   - `screen1.png`  
   - `screen2.png`
+
 ![Game Screenshot 1](screenshots/screen1.png)  
 ![Game Screenshot 2](screenshots/screen2.png)  
 - Demo video: `screen-video.mp4`  
